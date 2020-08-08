@@ -1,0 +1,1 @@
+python social_distance_detection.py --prototxt SSD/SSD_MobileNet_prototxt.txt --model SSD/SSD_MobileNet.caffemodel --labels SSD/class_labels.txt --alarm alarm.wav
