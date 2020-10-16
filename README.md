@@ -35,9 +35,6 @@ There were 4 major challenging challenges faced. <br>
 4. Deep Learning <br>
 5. Convolution Neural Network <br>
 
-## Link for Demo
-
-<a href="https://www.youtube.com/watch?v=dBe2KfgviRw&feature=youtu.be"> Demo</a>
 
 ## Photos
 <img src="testing/photo_1.PNG" width=500, height=400>  <img src="testing/photo_2.PNG" width=500, height=400>
