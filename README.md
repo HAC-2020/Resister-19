@@ -58,7 +58,3 @@ python social_distance_detection.py --prototxt SSD/SSD_MobileNet_prototxt.txt --
 ```
 
 
-## Team
-<b>1. Neha Sajnani<br/>
-2. Vishal Shah</b>
-
